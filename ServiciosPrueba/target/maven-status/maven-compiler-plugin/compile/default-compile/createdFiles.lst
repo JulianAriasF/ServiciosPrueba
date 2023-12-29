@@ -1,0 +1,11 @@
+com\jaimetorres\entity\Medicina.class
+com\jaimetorres\ServiciosPruebaApplication.class
+com\jaimetorres\entity\Cita.class
+com\jaimetorres\service\IPacienteService.class
+com\jaimetorres\entity\Paciente.class
+com\jaimetorres\entity\Medico.class
+com\jaimetorres\entity\PacienteDto.class
+com\jaimetorres\serviceImpl\PacienteServiceImp.class
+com\jaimetorres\repository\IMedicoAgendaRepo.class
+com\jaimetorres\repository\IPacienteRepo.class
+com\jaimetorres\controller\PacienteController.class
